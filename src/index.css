@@ -36,14 +36,14 @@
 
 .gallery_animation {
   animation: image-gallery linear infinite;
-  animation-duration: 22s;
+  animation-duration: 10s;
 }
 
 @keyframes image-gallery {
   0% {
-    transform: translate(0, 0);
+    transform: translate(0);
   }
   100% {
-    transform: translate(-100%, 0);
+    transform: translate(-200%);
   }
 }

@@ -6,6 +6,11 @@ import Artwork from "./components/Artwork";
 import Story from "./components/Story";
 import FeaturedApes from "./components/FeaturedApes";
 import Roadmap from "./components/Roadmap";
+import Jungle from "./components/Jungle";
+import More from "./components/More";
+import Team from "./components/Team";
+import Faqs from "./components/Faqs";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,6 +23,11 @@ function App() {
       <Story />
       <FeaturedApes />
       <Roadmap />
+      <Jungle />
+      <More />
+      <Team />
+      <Faqs />
+      <Footer />
     </div>
   );
 }
