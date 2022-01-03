@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const Header = () => {
   const [showNav, setShowNav] = useState(false);
   return (
-    <header className="bg-gray-800 font-lexend border-b border-white fixed w-full z-[1000]">
+    <header className="bg-gray-800 font-lexend border-b border-white sticky w-full z-[1000]">
       <div className="relative w-screen h-[80px] flex items-center justify-between">
         <div className=" flex items-center justify-between h-full border-r border-white">
           <div className="flex items-center w-full px-5">
