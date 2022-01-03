@@ -2,7 +2,10 @@ import React from "react";
 
 const Roadmap = () => {
   return (
-    <div className="border-b border-white py-[40px] sm:px-[40px] px-0 font-lexend">
+    <div
+      id="roadmap"
+      className="border-b border-white py-[40px] sm:px-[40px] px-0 font-lexend"
+    >
       <h3 className="font-bold md:text-5xl sm:text-4xl text-3xl mb-[50px] text-[#f1f1f1] text-center">
         ROADMAP
       </h3>

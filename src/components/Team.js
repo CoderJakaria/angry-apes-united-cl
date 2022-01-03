@@ -2,7 +2,10 @@ import React from "react";
 
 const Team = () => {
   return (
-    <div className="border-b border-white py-[40px] sm:px-[40px] px-[20px] font-lexend">
+    <div
+      id="team"
+      className="border-b border-white py-[40px] sm:px-[40px] px-[20px] font-lexend"
+    >
       <h3 className="font-bold md:text-5xl sm:text-3xl text-2xl mb-[50px] text-[#f1f1f1]">
         TEAM
       </h3>

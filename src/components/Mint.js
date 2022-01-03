@@ -1,8 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 
 const Mint = () => {
+  const [mintCount, setMintCount] = useState(0);
   return (
-    <div className="text-center pt-5 w-full scroll-mt-[200px] border-b border-white font-lexend">
+    <div
+      id="mint"
+      className="text-center pt-5 w-full scroll-mt-[200px] border-b border-white font-lexend"
+    >
       <img
         src="https://www.angryapesunited.com/static/media/ClaimApe.2e198c2d.gif"
         alt=""
@@ -50,12 +54,24 @@ const Mint = () => {
                 src="/assets/icons/minus.png"
                 alt=""
                 className="sm:w-[20px] w-[15px] sm:h-[20px] h-[15px] object-contain cursor-pointer"
+                onClick={() => {
+                  if (mintCount > 0) {
+                    setMintCount(mintCount - 1);
+                  }
+                }}
               />
-              <h4 className="font-bold sm:text-[28px] text-[20px]">0</h4>
+              <h4 className="font-bold sm:text-[28px] text-[20px]">
+                {mintCount}
+              </h4>
               <img
                 src="/assets/icons/plus.png"
                 alt=""
                 className="sm:w-[20px] w-[15px] sm:h-[20px] h-[15px] object-contain cursor-pointer"
+                onClick={() => {
+                  if (mintCount < 20) {
+                    setMintCount(mintCount + 1);
+                  }
+                }}
               />
             </div>
 
@@ -67,7 +83,7 @@ const Mint = () => {
           <div className="flex items-center justify-between pb-[20px] border-t border-b border-white pt-[20px]">
             <p className="font-normal sm:text-base text-sm text-white">Total</p>
             <h5 className="font-bold sm:text-[22px] text-lg text-white">
-              0 ETH
+              {mintCount * 0.075} ETH
             </h5>
           </div>
 

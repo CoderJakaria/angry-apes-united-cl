@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const Header = () => {
   const [showNav, setShowNav] = useState(false);
   return (
-    <header className="bg-gray-800 font-lexend border-b border-white">
+    <header className="bg-gray-800 font-lexend border-b border-white fixed w-full z-[1000]">
       <div className="relative w-screen h-[80px] flex items-center justify-between">
         <div className=" flex items-center justify-between h-full border-r border-white">
           <div className="flex items-center w-full px-5">
@@ -27,45 +27,41 @@ const Header = () => {
 
         <div className={`flex items-center lg:flex hidden `}>
           <a
-            href="Mint"
+            href="#mint"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
           >
             Mint
           </a>
           <a
-            href="Mint"
+            href="#story"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
           >
             Story
           </a>
           <a
-            href="Mint"
+            href="#featured-apes"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
           >
             Featured Apes
           </a>
           <a
-            href="Mint"
+            href="#roadmap"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
           >
             Roadmap
           </a>
           <a
-            href="Mint"
+            href="#jungle"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
           >
             $JUNGLE
           </a>
           <a
-            href="Mint"
+            href="#team"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
           >
             Team
           </a>
-          <a
-            href="Mint"
-            className="text-[#d7d7d7] no-underline font-normal text-base"
-          ></a>
 
           <a
             href="#faq"
@@ -93,45 +89,41 @@ const Header = () => {
             />
             <div className={`flex items-center lg:hidden flex header_navs`}>
               <a
-                href="Mint"
+                href="#mint"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"
               >
                 Mint
               </a>
               <a
-                href="Mint"
+                href="#story"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"
               >
                 Story
               </a>
               <a
-                href="Mint"
+                href="#featured-apes"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"
               >
                 Featured Apes
               </a>
               <a
-                href="Mint"
+                href="#roadmap"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"
               >
                 Roadmap
               </a>
               <a
-                href="Mint"
+                href="#jungle"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"
               >
                 $JUNGLE
               </a>
               <a
-                href="Mint"
+                href="#team"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"
               >
                 Team
               </a>
-              <a
-                href="Mint"
-                className="text-[#d7d7d7] no-underline font-normal text-base"
-              ></a>
 
               <a
                 href="#faq"

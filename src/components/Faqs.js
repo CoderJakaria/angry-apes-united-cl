@@ -3,7 +3,7 @@ import FaqItem from "./FaqItem";
 
 const Faqs = () => {
   return (
-    <div className="py-[40px] sm:px-[40px] px-[20px] font-lexend">
+    <div id="faq" className="py-[40px] sm:px-[40px] px-[20px] font-lexend">
       <h3 className="font-bold md:text-5xl sm:text-3xl text-2xl mb-[50px] text-[#f1f1f1]">
         FAQ
       </h3>

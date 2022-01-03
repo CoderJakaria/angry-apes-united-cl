@@ -47,3 +47,8 @@
     transform: translate(-200%);
   }
 }
+
+html,
+body {
+  scroll-behavior: smooth;
+}
