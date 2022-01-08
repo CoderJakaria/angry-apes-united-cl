@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <div className="bg-black sm:justify-center py-[40px] sm:px-[40px] px-[20px] font-lexend grid sm:grid-cols-3 grid-cols-2">
         <div className="sm:block hidden">
-          <img src="/assets/images/logo.png" alt="" className="w-[144px]" />
+          <img src="/assets/images/logo2.png" alt="" className="w-[144px]" />
         </div>
 
         <div>

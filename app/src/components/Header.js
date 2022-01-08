@@ -8,13 +8,13 @@ const Header = () => {
         <div className=" flex items-center justify-between h-full border-r border-white">
           <div className="flex items-center w-full px-5">
             <img
-              src="/assets/images/logo.png"
+              src="https://cdn.discordapp.com/attachments/816110432900481045/894726149312245810/unknown.png"
               alt=""
               className="block w-auto h-[40px]"
             />
-            {/* <h3 className="font-bold text-[22px] text-white ml-3 xl:block hidden">
+            <h3 className="font-bold text-[22px] text-white ml-3 xl:block hidden">
               ANGRY APES UNITED
-            </h3> */}
+            </h3>
           </div>
         </div>
 
