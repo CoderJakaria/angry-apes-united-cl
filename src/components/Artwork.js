@@ -8,46 +8,38 @@ const Artwork = () => {
           THE ARTWORK
         </h3>
         <p className="font-bold sm:text-[22px] text-base text-center mt-[50px] mb-5">
-          Angry Apes United is a unique NFT collection of 8,888 Angry Apes
-          generated from over 170+ hand drawn traits. The team and artists have
-          worked on this project for over 2 months now, focusing on the
-          development and quality of art.
+          Meta Mafia is a Decentralized Autonomous Organization (DAO) operating
+          on the metaverse
         </p>
 
         <p className="sm:text-base text-sm font-normal text-center mb-5">
-          Our goal is to stand out from all other projects and focus on the
-          quality and beauty of art. Some traits will be common, rare, super
-          rare, and ultra rare. Meaning they will appear from a variety of
-          times, to several times, to only once. All Angry Apes are custom
-          generated and will be launching on the Ethereum Blockchain.
-        </p>
-
-        <p className="sm:text-base text-sm font-normal text-center">
-          Minting will take place on November 10th. Pre sale begins November
-          8th. On launch day you’ll be able to mint an Angry Ape at the price of
-          0.075 ETH. This can change depending on the price of ETH during
-          launch.
+          Our primary purpose is to enrich the organization and its active
+          members. Hierarchy is fully dynamic, and the very top is achievable by
+          anyone who owns at least one Meta Mafia NFT. The core of the Mafia
+          consists of various social relations between our members. How did you
+          get that position? Do you have valuable skills, extraordinary charm,
+          or did you simply bribe one of the top dogs?
         </p>
       </div>
 
       <div className="grid grid_artwork gap-[10px] ">
         <img
-          src="https://www.angryapesunited.com/static/media/Featured1.3cbc6ceb.jpeg"
+          src="https://app.metamafia.co/assets/img/sample3.jpg"
           alt=""
           className="rounded-[10px]"
         />
         <img
-          src="https://www.angryapesunited.com/static/media/Featured3.4261e5dc.jpg"
+          src="https://app.metamafia.co/assets/img/sample2.jpg"
           alt=""
           className="rounded-[10px]"
         />
         <img
-          src="https://www.angryapesunited.com/static/media/Featured4.3255cccf.jpg"
+          src="https://app.metamafia.co/assets/img/sample1.jpg"
           alt=""
           className="rounded-[10px]"
         />
         <img
-          src="https://www.angryapesunited.com/static/media/Featured6.504662c6.jpg"
+          src="https://app.metamafia.co/assets/img/sample0.jpg"
           alt=""
           className="rounded-[10px]"
         />

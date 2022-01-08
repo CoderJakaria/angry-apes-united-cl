@@ -14,7 +14,7 @@ const Team = () => {
         <a href="https://www.instagram.com/tradewithmathew/" target="_blank">
           <div>
             <img
-              src="https://www.angryapesunited.com/static/media/Mathew.7260e682.png"
+              src="/assets/images/cartier.jpg"
               alt=""
               className="rounded-[10px]"
             />
@@ -39,7 +39,7 @@ const Team = () => {
         <a href="https://www.instagram.com/sonny.trades/" target="_blank">
           <div>
             <img
-              src="https://www.angryapesunited.com/static/media/Sonny.4da8711b.png"
+              src="/assets/images/montana.jpg"
               alt=""
               className="rounded-[10px]"
             />
@@ -64,7 +64,7 @@ const Team = () => {
         <a href="https://www.instagram.com/jaylaurentt/" target="_blank">
           <div>
             <img
-              src="https://www.angryapesunited.com/static/media/Jay.df5294ad.jpeg"
+              src="/assets/images/soso.jpg"
               alt=""
               className="rounded-[10px]"
             />
@@ -89,7 +89,7 @@ const Team = () => {
         <a href="https://www.instagram.com/thetylercruz/" target="_blank">
           <div>
             <img
-              src="https://www.angryapesunited.com/static/media/Tyler.1810640f.png"
+              src="/assets/images/roman.jpg"
               alt=""
               className="rounded-[10px]"
             />
@@ -114,7 +114,7 @@ const Team = () => {
         <a href="https://landvault.io/" target="_blank">
           <div>
             <img
-              src="https://www.angryapesunited.com/static/media/LandVault.0a146e44.png"
+              src="/assets/images/gryofish.jpg"
               alt=""
               className="rounded-[10px]"
             />
@@ -136,8 +136,8 @@ const Team = () => {
           </div>
         </a>
 
-        <a href="https://www.gsd3d.club/nft" target="_blank">
-          <div>
+        {/* <a href="https://www.gsd3d.club/nft" target="_blank">
+          {/* <div>
             <img
               src="https://www.angryapesunited.com/static/media/GSD.55fdacb8.png"
               alt=""
@@ -158,8 +158,8 @@ const Team = () => {
                 Art & Development
               </p>
             </div>
-          </div>
-        </a>
+          </div> */}
+        {/* </a>  */}
       </div>
     </div>
   );

@@ -22,12 +22,10 @@ const Roadmap = () => {
 
           <div className="flex-[0.5] font-lexend sm:px-0 px-5">
             <h4 className="text-[22px] font-bold text-[#f1f1f1]">
-              The Evolution
+            START OF A LONG ROAD
             </h4>
             <p className="w-full text-base font-normal text-[#f1f1f1]">
-              The official release of our very first exclusive merch drop! This
-              collection will only be available to our holders and will include
-              T-shirts, hats, and hoodies!
+            The metaverse is vast and the Mafia must expand its business. Shortly post-launch roles will be assigned fitting each member's skillset and dedication. Leadership roles can't be bought and must be earned. Regional cliqa leaders will get special access to voting rights and allocation of funds from the common Off-Shore bank account. A part of the proceeds from the primary sales will be allocated to start off our organization.
             </p>
           </div>
         </div>
@@ -42,17 +40,10 @@ const Roadmap = () => {
 
           <div className="flex-[0.5] font-lexend sm:px-0 px-5">
             <h4 className="text-[22px] font-bold text-[#f1f1f1]">
-              Apes United
+            dApp ROLL-OUT
             </h4>
             <p className="w-full text-base font-normal text-[#f1f1f1]">
-              Angry Apes United NFT holders are invited to our first of many
-              exclusive meetups. The first one being held in Los Angeles, CA.
-              Owning an Angry Ape gives our holders access to these events where
-              high valued serial entrepreneurs, investors, innovators, and other
-              influential individuals will be in attendance. During this event a
-              Rolex watch will be raffled off to a lucky holder along with a 1/1
-              Angry Ape NFT. All information regarding the event details will be
-              provided in our official Discord and social media pages!
+            The Mafia's techies will focus on creating many valuable dApps and protocols for its members. The proceeds from this will fuel many future ventures, as well as enrich the users themselves.
             </p>
           </div>
         </div>
@@ -66,19 +57,9 @@ const Roadmap = () => {
           </div>
 
           <div className="flex-[0.5] font-lexend sm:px-0 px-5">
-            <h4 className="text-[22px] font-bold text-[#f1f1f1]">Apes World</h4>
+            <h4 className="text-[22px] font-bold text-[#f1f1f1]">RACKETEERING</h4>
             <p className="w-full text-base font-normal text-[#f1f1f1]">
-              The apes have come together to raid the metaverse! Join us on our
-              journey throughout the metaverse as we return home to our jungle
-              on the Sandbox platform where users will be able to participate in
-              educational activities, private events, concerts, along with other
-              fun interactive and gaming experiences including PvP where they
-              will have the ability to play and earn additional crypto assets.
-              Our holders will have the creative power and ability to help
-              decide what actually gets built and implemented in our virtual
-              world on the official Angry Apes United estate via The Sandbox
-              Game as we have the pleasure of working closely with the official
-              LandVault level development team.
+            Once we have established a name for ourselves, the Racketeering will start. Subservient projects will be given the opportunity to be promoted by the Mafia. The spoils from these projects will not only go to the Common Off-shore Bank Account but will also be redistributed to all members who have engaged with the community in a given time period.
             </p>
           </div>
         </div>
@@ -92,19 +73,9 @@ const Roadmap = () => {
           </div>
 
           <div className="flex-[0.5] font-lexend sm:px-0 px-5">
-            <h4 className="text-[22px] font-bold text-[#f1f1f1]">Apes World</h4>
+            <h4 className="text-[22px] font-bold text-[#f1f1f1]">Cross-chain METAVERSE</h4>
             <p className="w-full text-base font-normal text-[#f1f1f1]">
-              The apes have come together to raid the metaverse! Join us on our
-              journey throughout the metaverse as we return home to our jungle
-              on the Sandbox platform where users will be able to participate in
-              educational activities, private events, concerts, along with other
-              fun interactive and gaming experiences including PvP where they
-              will have the ability to play and earn additional crypto assets.
-              Our holders will have the creative power and ability to help
-              decide what actually gets built and implemented in our virtual
-              world on the official Angry Apes United estate via The Sandbox
-              Game as we have the pleasure of working closely with the official
-              LandVault level development team.
+            Cross-chain metaverse character implementation will make it possible for all Mafia members to exist in multiple metaverses. NetVRk will be our first partner. 15 ETH will be added and reserved for building and sculpting our land in NetVRk. During this period the true community engagement will take place. Clashes between local gang members surely will ensue.
             </p>
           </div>
         </div>
@@ -119,22 +90,10 @@ const Roadmap = () => {
 
           <div className="flex-[0.5] font-lexend sm:px-0 px-5">
             <h4 className="text-[22px] font-bold text-[#f1f1f1]">
-              Apes Forever
+            ELITE Organization
             </h4>
             <p className="w-full text-base font-normal text-[#f1f1f1]">
-              Come celebrate the New Years with the team in Miami! All Angry
-              Apes United NFT holders will be able to come join us in Miami for
-              our exclusive meet up. We will be having several more raffles
-              during this event such as cash prizes, other crypto assets, and
-              even a Tesla Model 3 for one of our lucky holders on the
-              contingency that all 8,888 Angry Apes have been minted. More
-              information and details will be provided in our official Discord
-              and social media pages!
-              <br />
-              <br />
-              As we continue our journey together throughout the physical and
-              virtual world, we look forward to expanding on our future plans
-              and will be updating our community as we go!
+            With the Mafia running multiple profitable, dividend-paying ventures at any given time, more and more individuals will seek to join our ranks. The high demand for our NFTs will inevitably lead to our members being regarded as the rightful elite of the Metaverse.
             </p>
           </div>
         </div>
@@ -144,119 +103,3 @@ const Roadmap = () => {
 };
 
 export default Roadmap;
-
-// <div className="phase flex md:flex-row flex-col flex-col-reverse pb-[50px] items-center">
-//           <div className="md:w-[50%] sm:px-0 px-5 font-lexend">
-//             <h4 className="text-[22px] font-bold text-[#f1f1f1]">
-//               Apes United
-//             </h4>
-//             <p className="w-full text-base font-normal text-[#f1f1f1]">
-//               Angry Apes United NFT holders are invited to our first of many
-//               exclusive meetups. The first one being held in Los Angeles, CA.
-//               Owning an Angry Ape gives our holders access to these events where
-//               high valued serial entrepreneurs, investors, innovators, and other
-//               influential individuals will be in attendance. During this event a
-//               Rolex watch will be raffled off to a lucky holder along with a 1/1
-//               Angry Ape NFT. All information regarding the event details will be
-//               provided in our official Discord and social media pages!
-//             </p>
-//           </div>
-
-//           <div
-//             className="image-div md:ml-[46px] sm:w-[450px] w-full m-0 h-[200px]"
-//             style={{
-//               backgroundImage:
-//                 "url(https://images.prismic.io/ivy-site/a7894f8c-2b4b-4456-8639-2e372fcbec5e_25.png?auto=compress%2Cformat)",
-//               backgroundPosition: "0 50%",
-//               backgroundSize: "cover",
-//             }}
-//           ></div>
-//         </div>
-
-//         <div className="phase flex md:flex-row flex-col pb-10 items-center">
-//           <div
-//             className="image-div mr-[46px] sm:w-[450px] w-full m-0 h-[200px] "
-//             style={{
-//               backgroundImage:
-//                 "url(https://images.prismic.io/ivy-site/3d8d9631-f571-406d-b2f5-ad22cabc9c33_50.png?auto=compress%2Cformat)",
-//               backgroundPosition: "0 50%",
-//               backgroundSize: "cover",
-//             }}
-//           ></div>
-
-//           <div className="md:w-[50%] sm:px-0 px-5 font-lexend">
-//             <h4 className="text-[22px] font-bold text-[#f1f1f1]">
-//               The Golden Weapon
-//             </h4>
-//             <p className="w-full text-base font-normal text-[#f1f1f1]">
-//               The first 50% of our holders will receive a 3D golden weapon NFT
-//               airdropped to their wallets, which will give them exclusive access
-//               to our limited 2nd NFT drop. More information about our second
-//               drop will be provided in our official Discord and social media
-//               pages! Yield Farming officially begins for Angry Apes United
-//               holders, it is now time to claim your $JUNGLE!
-//             </p>
-//           </div>
-//         </div>
-
-//         <div className="phase flex md:flex-row flex-col flex-col-reverse pb-10 items-center">
-//           <div className="md:w-[50%] sm:px-0 px-5 font-lexend">
-//             <h4 className="text-[22px] font-bold text-[#f1f1f1]">Apes World</h4>
-//             <p className="w-full text-base font-normal text-[#f1f1f1]">
-//               The apes have come together to raid the metaverse! Join us on our
-//               journey throughout the metaverse as we return home to our jungle
-//               on the Sandbox platform where users will be able to participate in
-//               educational activities, private events, concerts, along with other
-//               fun interactive and gaming experiences including PvP where they
-//               will have the ability to play and earn additional crypto assets.
-//               Our holders will have the creative power and ability to help
-//               decide what actually gets built and implemented in our virtual
-//               world on the official Angry Apes United estate via The Sandbox
-//               Game as we have the pleasure of working closely with the official
-//               LandVault level development team.
-//             </p>
-//           </div>
-
-//           <div
-//             className="image-div md:ml-[46px] sm:w-[450px] w-full m-0 h-[200px]"
-//             style={{
-//               backgroundImage:
-//                 "url()",
-//               backgroundPosition: "0 50%",
-//               backgroundSize: "cover",
-//             }}
-//           ></div>
-//         </div>
-
-//         <div className="phase flex md:flex-row flex-col pb-10 items-center">
-//           <div
-//             className="image-div mr-[46px] sm:w-[400px] w-full m-0 h-[200px] "
-//             style={{
-//               backgroundImage:
-//                 "url()",
-//               backgroundPosition: "0 50%",
-//               backgroundSize: "cover",
-//             }}
-//           ></div>
-
-//           <div className="md:w-[50%] sm:px-0 px-5 font-lexend">
-//             <h4 className="text-[22px] font-bold text-[#f1f1f1]">
-//               Apes Forever
-//             </h4>
-//             <p className="w-full text-base font-normal text-[#f1f1f1]">
-//               Come celebrate the New Years with the team in Miami! All Angry
-//               Apes United NFT holders will be able to come join us in Miami for
-//               our exclusive meet up. We will be having several more raffles
-//               during this event such as cash prizes, other crypto assets, and
-//               even a Tesla Model 3 for one of our lucky holders on the
-//               contingency that all 8,888 Angry Apes have been minted. More
-//               information and details will be provided in our official Discord
-//               and social media pages!
-//               <br />
-//               <br />
-//               As we continue our journey together throughout the physical and
-//               virtual world, we look forward to expanding on our future plans
-//               and will be updating our community as we go!
-//             </p>
-//           </div>
-//         </div>
