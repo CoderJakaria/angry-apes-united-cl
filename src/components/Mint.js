@@ -94,7 +94,7 @@ const Mint = () => {
               href="https://opensea.io/collection/angryapesunited"
               className="font-medium sm:text-2xl text-xl"
             >
-              SOLD OUT
+              MINT NOW
             </a>
           </div>
         </div>
