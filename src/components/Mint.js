@@ -18,10 +18,10 @@ const Mint = () => {
           <div className="flex items-center">
             <div className="text-left">
               <h4 className="font-bold text-[#f1f1f1] sm:text-[32px] text-[25px]">
-                CLAIM YOUR APES
+                CLAIM YOUR MAFIA MEMBER
               </h4>
               <p className="font-normal sm:text-base text-sm text-white">
-                Enter how many apes you would like to mint here
+                Enter how many mafia member you would like to mint here
               </p>
             </div>
             <img
@@ -38,7 +38,9 @@ const Mint = () => {
               className="w-[112px] h-[112px] rounded-[10px]"
             />
             <div className="text-right text-white m-auto mr-0">
-              <p className="font-normal sm:text-base text-sm">Price Per Ape</p>
+              <p className="font-normal sm:text-base text-sm">
+                Price Per Mafia Member
+              </p>
               <h5 className="font-bold sm:text-[22px] text-base">
                 0.075 ETH Each
               </h5>

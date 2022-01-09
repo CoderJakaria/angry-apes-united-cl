@@ -17,14 +17,16 @@ const Jungle = () => {
           </h4>
           <p className="font-normal sm:text-base text-sm text-white">
             Imagine if everything you ever needed was all in one place. For our
-            Angry Apes, that is the reality. Their home, The $JUNGLE, provides
-            EVERYTHING they will ever need not only to survive, but to thrive!
+            Angry Mafia Member, that is the reality. Their home, The $JUNGLE,
+            provides EVERYTHING they will ever need not only to survive, but to
+            thrive!
             <br />
             <br />
-            The goal of Angry Apes United has always been beyond just creating
-            an ordinary 2D piece of art. It stems much further and constantly
-            pushes us to stand out in our very own unique ways by providing an
-            unmatched community and utility experience like no other
+            The goal of Angry Mafia Member United has always been beyond just
+            creating an ordinary 2D piece of art. It stems much further and
+            constantly pushes us to stand out in our very own unique ways by
+            providing an unmatched community and utility experience like no
+            other
           </p>
 
           <div className="flex items-center space-x-5 my-5 mb-[30px]">
@@ -57,7 +59,8 @@ const Jungle = () => {
               <p className="font-normal sm:text-base text-sm text-white">
                 Ready to mint your very own 3D voxel character exclusively for
                 The Sandbox Game? With just 2,000 $JUNGLE tokens you are now
-                able to mint your very own Angry Apes United 3D VX avatar.
+                able to mint your very own Angry Mafia Member United 3D VX
+                avatar.
               </p>
             </div>
           </div>
@@ -103,13 +106,14 @@ const Jungle = () => {
 
           <div className="p-8 border border-white mt-10">
             <p className="font-normal sm:text-base text-sm italic text-white text-center">
-              $JUNGLE is the utility token that fuels the Angry Apes United
-              ecosystem. It is NOT an investment and has NO economic value.
+              $JUNGLE is the utility token that fuels the Angry Mafia Member
+              United ecosystem. It is NOT an investment and has NO economic
+              value.
               <br />
               <br />
               Each Angry Ape is able to claim 20 $JUNGLE tokens per day for a
-              period of ten years. There will only ever be 8,888 Angry Apes in
-              the original collection and they will produce a total of
+              period of ten years. There will only ever be 8,888 Angry Mafia
+              Member in the original collection and they will produce a total of
               64,882,400 $JUNGLE tokens per year over a period of ten years.
             </p>
           </div>

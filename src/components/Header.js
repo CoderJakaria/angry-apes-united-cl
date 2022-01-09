@@ -57,7 +57,7 @@ const Header = () => {
             href="#featured-apes"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
           >
-            Featured Apes
+            Featured Mafia
           </a>
           <a
             href="#roadmap"
@@ -119,7 +119,7 @@ const Header = () => {
                 href="#featured-apes"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"
               >
-                Featured Apes
+                Featured Mafia
               </a>
               <a
                 href="#roadmap"

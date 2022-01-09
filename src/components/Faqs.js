@@ -9,12 +9,12 @@ const Faqs = () => {
       </h3>
 
       <FaqItem
-        title="What is Angry Apes United?"
-        description="Angry Apes United is an exclusive NFT project featuring 8,888 unique apes that have a combined mixture of rare and authentic art, backed by a special Utility for holders. We are creating an unmatched community where holders have the opportunity to not only meet up in person, but also in the Metaverse where they have the potential to earn additional crypto assets!"
+        title="What is Angry Mafia Member United?"
+        description="Angry Mafia Member United is an exclusive NFT project featuring 8,888 unique Mafia Member that have a combined mixture of rare and authentic art, backed by a special Utility for holders. We are creating an unmatched community where holders have the opportunity to not only meet up in person, but also in the Metaverse where they have the potential to earn additional crypto assets!"
       />
       <FaqItem
         title="When is the release date?"
-        description="The Angry Apes United Collection will officially release to the public on November 10th. Pre Sale begins November 8th. For more information join our Discord!"
+        description="The Angry Mafia Member United Collection will officially release to the public on November 10th. Pre Sale begins November 8th. For more information join our Discord!"
       />
       <FaqItem
         title="Where can I buy an Angry Ape?"

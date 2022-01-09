@@ -19,10 +19,10 @@ const More = () => {
             Metaverse Expansion
           </h4>
           <p className="sm:text-base text-sm font-normal text-white">
-            The Apes have many plans for the virtual world! As we develop our
-            estate in The Sandbox Game, the team looks to continue expanding
-            into other metaverses such as Decentraland and other up and coming
-            platforms to keep a strong presence in the space!
+            The Mafia Member have many plans for the virtual world! As we
+            develop our estate in The Sandbox Game, the team looks to continue
+            expanding into other metaverses such as Decentraland and other up
+            and coming platforms to keep a strong presence in the space!
           </p>
         </div>
 
@@ -56,10 +56,10 @@ const More = () => {
             Community Charity Events
           </h4>
           <p className="sm:text-base text-sm font-normal text-white">
-            The Angry Apes United team looks to host community charity events in
-            person and on their virtual estates where holders will have the
-            ability to choose and donate towards the cause of their choice. Apes
-            create something that lasts forever.
+            The Angry Mafia Member United team looks to host community charity
+            events in person and on their virtual estates where holders will
+            have the ability to choose and donate towards the cause of their
+            choice. Mafia Member create something that lasts forever.
           </p>
         </div>
       </div>
