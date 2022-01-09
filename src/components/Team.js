@@ -11,130 +11,126 @@ const Team = () => {
       </h3>
 
       <div className="max-w-[800px] mx-auto grid sm:grid-cols-3 grid-cols-2 gap-5">
-        <a href="https://www.instagram.com/tradewithmathew/" target="_blank">
+        {/* <a href="https://www.instagram.com/tradewithmathew/" target="_blank"> */}
+        <div>
+          <img
+            src="/assets/images/cartier.jpg"
+            alt=""
+            className="rounded-[10px]"
+          />
           <div>
-            <img
-              src="/assets/images/cartier.jpg"
-              alt=""
-              className="rounded-[10px]"
-            />
-            <div>
-              <div className="flex justify-between items-center mt-2">
-                <p className="font-bold sm:text-lg text-base text-white">
-                  Mathew Ramirez
-                </p>
-                <img
+            <div className="flex justify-between items-center mt-2">
+              <p className="font-bold sm:text-lg text-base text-white">
+                Cartier
+              </p>
+              {/* <img
                   src="/assets/icons/instagram.png"
                   alt=""
                   className="w-5 h-5 object-contain"
-                />
-              </div>
-              <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
-                Founder
-              </p>
+                /> */}
             </div>
+            <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
+              Project Lead
+            </p>
           </div>
-        </a>
+        </div>
+        {/* </a> */}
 
-        <a href="https://www.instagram.com/sonny.trades/" target="_blank">
+        {/* <a href="https://www.instagram.com/sonny.trades/" target="_blank"> */}
+        <div>
+          <img
+            src="/assets/images/montana.jpg"
+            alt=""
+            className="rounded-[10px]"
+          />
           <div>
-            <img
-              src="/assets/images/montana.jpg"
-              alt=""
-              className="rounded-[10px]"
-            />
-            <div>
-              <div className="flex justify-between items-center mt-2">
-                <p className="font-bold sm:text-lg text-base text-white">
-                  Sonny
-                </p>
-                <img
+            <div className="flex justify-between items-center mt-2">
+              <p className="font-bold sm:text-lg text-base text-white">
+                Montana
+              </p>
+              {/* <img
                   src="/assets/icons/instagram.png"
                   alt=""
                   className="w-5 h-5 object-contain"
-                />
-              </div>
-              <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
-                Co-Founder
-              </p>
+                /> */}
             </div>
+            <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
+              Lead Developer
+            </p>
           </div>
-        </a>
+        </div>
+        {/* </a> */}
 
-        <a href="https://www.instagram.com/jaylaurentt/" target="_blank">
+        {/* <a href="https://www.instagram.com/jaylaurentt/" target="_blank"> */}
+        <div>
+          <img
+            src="/assets/images/soso.jpg"
+            alt=""
+            className="rounded-[10px]"
+          />
           <div>
-            <img
-              src="/assets/images/soso.jpg"
-              alt=""
-              className="rounded-[10px]"
-            />
-            <div>
-              <div className="flex justify-between items-center mt-2">
-                <p className="font-bold sm:text-lg text-base text-white">
-                  Jay Laurent
-                </p>
-                <img
+            <div className="flex justify-between items-center mt-2">
+              <p className="font-bold sm:text-lg text-base text-white">Soso</p>
+              {/* <img
                   src="/assets/icons/instagram.png"
                   alt=""
                   className="w-5 h-5 object-contain"
-                />
-              </div>
-              <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
-                Chief Marketing Officer
-              </p>
+                /> */}
             </div>
+            <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
+              Main Artist
+            </p>
           </div>
-        </a>
+        </div>
+        {/* </a> */}
 
-        <a href="https://www.instagram.com/thetylercruz/" target="_blank">
+        {/* <a href="https://www.instagram.com/thetylercruz/" target="_blank"> */}
+        <div>
+          <img
+            src="/assets/images/roman.jpg"
+            alt=""
+            className="rounded-[10px]"
+          />
           <div>
-            <img
-              src="/assets/images/roman.jpg"
-              alt=""
-              className="rounded-[10px]"
-            />
-            <div>
-              <div className="flex justify-between items-center mt-2">
-                <p className="font-bold sm:text-lg text-base text-white">
-                  Tyler Cruz
-                </p>
-                <img
+            <div className="flex justify-between items-center mt-2">
+              <p className="font-bold sm:text-lg text-base text-white">Roman</p>
+              {/* <img
                   src="/assets/icons/instagram.png"
                   alt=""
                   className="w-5 h-5 object-contain"
-                />
-              </div>
-              <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
-                Marketing Operations Manager
-              </p>
+                /> */}
             </div>
+            <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
+              Mafia Member
+            </p>
           </div>
-        </a>
+        </div>
+        {/* </a> */}
 
-        <a href="https://landvault.io/" target="_blank">
+        {/* <a href="https://landvault.io/" target="_blank"> */}
+        <div>
+          <img
+            src="/assets/images/gryofish.jpg"
+            alt=""
+            className="rounded-[10px]"
+          />
           <div>
-            <img
-              src="/assets/images/gryofish.jpg"
-              alt=""
-              className="rounded-[10px]"
-            />
-            <div>
-              <div className="flex justify-between items-center mt-2">
-                <p className="font-bold sm:text-lg text-base text-white">
-                  Land Vault
-                </p>
-                <img
+            <div className="flex justify-between items-center mt-2">
+              <p className="font-bold sm:text-lg text-base text-white">
+                Gryofish
+              </p>
+              {/* <img
                   src="/assets/icons/monitor.png"
                   alt=""
                   className="w-5 h-5 object-contain"
-                />
-              </div>
-              <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
-                Metaverse
-              </p>
+                /> */}
             </div>
+            <p className="font-bold text-[#d7d7d7] sm:text-[12px] text-[10px]">
+              Mafia Member
+            </p>
           </div>
-        </a>
+        </div>
+        {/* </a> */}
 
         {/* <a href="https://www.gsd3d.club/nft" target="_blank">
           {/* <div>
