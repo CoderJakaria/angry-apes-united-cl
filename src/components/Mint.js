@@ -8,7 +8,7 @@ const Mint = () => {
       className="text-center pt-5 w-full scroll-mt-[200px] border-b border-white font-lexend"
     >
       <img
-        src="https://www.angryapesunited.com/static/media/ClaimApe.2e198c2d.gif"
+        src="/assets/images/prods.gif"
         alt=""
         className="rounded-[10px] sm:w-[588px] sm:h-[588px] mx-auto"
       />
@@ -25,15 +25,15 @@ const Mint = () => {
               </p>
             </div>
             <img
-              src="https://cdn.discordapp.com/attachments/816110432900481045/894726149312245810/unknown.png"
+              src="/assets/images/9.png"
               alt=""
-              className="w-[55px] h-[40px] mr-0 ml-auto"
+              className="w-[90px] h-[90px] mr-0 ml-auto object-cover"
             />
           </div>
 
           <div className="flex p-[12px] border border-white rounded-[10px] my-[32px]">
             <img
-              src="https://www.angryapesunited.com/static/media/ClaimApe.2e198c2d.gif"
+              src="/assets/images/prods.gif"
               alt=""
               className="w-[112px] h-[112px] rounded-[10px]"
             />

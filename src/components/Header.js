@@ -1,9 +1,24 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 const Header = () => {
   const [showNav, setShowNav] = useState(false);
+  const [navActive, setNavActive] = useState(false);
+
+  useEffect(() => {
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 300) {
+        setNavActive(true);
+      } else {
+        setNavActive(false);
+      }
+    });
+  }, []);
   return (
-    <header className="bg-black font-lexend border-b border-white fixed w-full z-[1000]">
+    <header
+      className={`bg-black font-lexend border-b border-white transition duration-500 ${
+        navActive ? "fixed top-0" : "sticky"
+      } w-full z-[1000]`}
+    >
       <div className="relative w-screen h-[80px] flex items-center justify-between">
         <div className=" flex items-center justify-between h-full border-r border-white">
           <div className="flex items-center w-full px-5">
