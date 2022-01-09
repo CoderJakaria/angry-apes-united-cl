@@ -9,16 +9,16 @@ const Faqs = () => {
       </h3>
 
       <FaqItem
-        title="What is Angry Mafia Member United?"
-        description="Angry Mafia Member United is an exclusive NFT project featuring 8,888 unique Mafia Member that have a combined mixture of rare and authentic art, backed by a special Utility for holders. We are creating an unmatched community where holders have the opportunity to not only meet up in person, but also in the Metaverse where they have the potential to earn additional crypto assets!"
+        title="What is Meta Mafia United?"
+        description="Meta Mafia United is an exclusive NFT project featuring 8,888 unique Mafia Member that have a combined mixture of rare and authentic art, backed by a special Utility for holders. We are creating an unmatched community where holders have the opportunity to not only meet up in person, but also in the Metaverse where they have the potential to earn additional crypto assets!"
       />
       <FaqItem
         title="When is the release date?"
-        description="The Angry Mafia Member United Collection will officially release to the public on November 10th. Pre Sale begins November 8th. For more information join our Discord!"
+        description="The Meta Mafia United Collection will officially release to the public on November 10th. Pre Sale begins November 8th. For more information join our Discord!"
       />
       <FaqItem
-        title="Where can I buy an Angry Ape?"
-        description="Minting will be available through our official website and smart contract address only. (Official smart contract will be provided by our team on launch day in our Discord!) On minting day, you will be able to purchase an Angry Ape at a cost of 0.075 ETH. This can change depending on the price of ETH during launch. Once minting is over, you’ll be able to showcase on your OpenSea account."
+        title="Where can I buy an Meta Mafia?"
+        description="Minting will be available through our official website and smart contract address only. (Official smart contract will be provided by our team on launch day in our Discord!) On minting day, you will be able to purchase an Meta Mafia at a cost of 0.075 ETH. This can change depending on the price of ETH during launch. Once minting is over, you’ll be able to showcase on your OpenSea account."
       />
       <FaqItem
         title="What makes us different?"

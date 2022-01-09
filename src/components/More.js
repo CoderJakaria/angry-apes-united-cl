@@ -56,10 +56,10 @@ const More = () => {
             Community Charity Events
           </h4>
           <p className="sm:text-base text-sm font-normal text-white">
-            The Angry Mafia Member United team looks to host community charity
-            events in person and on their virtual estates where holders will
-            have the ability to choose and donate towards the cause of their
-            choice. Mafia Member create something that lasts forever.
+            The Meta Mafia United team looks to host community charity events in
+            person and on their virtual estates where holders will have the
+            ability to choose and donate towards the cause of their choice.
+            Mafia Member create something that lasts forever.
           </p>
         </div>
       </div>

@@ -42,7 +42,7 @@ const Mint = () => {
                 Price Per Mafia Member
               </p>
               <h5 className="font-bold sm:text-[22px] text-base">
-                0.075 ETH Each
+                0.065 ETH Each
               </h5>
               <p className="font-normal sm:text-base text-sm">
                 Public sale available 11.10.2021
@@ -85,7 +85,7 @@ const Mint = () => {
           <div className="flex items-center justify-between pb-[20px] border-t border-b border-white pt-[20px]">
             <p className="font-normal sm:text-base text-sm text-white">Total</p>
             <h5 className="font-bold sm:text-[22px] text-lg text-white">
-              {mintCount * 0.075} ETH
+              {mintCount * 0.065} ETH
             </h5>
           </div>
 
