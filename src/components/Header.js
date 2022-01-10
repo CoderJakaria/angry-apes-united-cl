@@ -65,12 +65,12 @@ const Header = () => {
           >
             Roadmap
           </a>
-          <a
+          {/* <a
             href="#jungle"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
           >
             $JUNGLE
-          </a>
+          </a> */}
           <a
             href="#team"
             className="text-[#d7d7d7] no-underline font-normal text-base mr-4"
@@ -127,12 +127,12 @@ const Header = () => {
               >
                 Roadmap
               </a>
-              <a
+              {/* <a
                 href="#jungle"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"
               >
                 $JUNGLE
-              </a>
+              </a> */}
               <a
                 href="#team"
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-4 sm:text-2xl text-lg mb-4"

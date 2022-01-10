@@ -23,7 +23,7 @@ function App() {
       <Story />
       <FeaturedApes />
       <Roadmap />
-      <Jungle />
+      {/* <Jungle /> */}
       <More />
       <Team />
       <Faqs />
