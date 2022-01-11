@@ -42,11 +42,8 @@ const Mint = () => {
                 Price Per Mafia Member
               </p>
               <h5 className="font-bold sm:text-[22px] text-base">
-                .065 ETH Each
+                0.065 ETH Each
               </h5>
-              <p className="font-normal sm:text-base text-sm">
-                Public sale available 11.10.2021
-              </p>
             </div>
           </div>
 

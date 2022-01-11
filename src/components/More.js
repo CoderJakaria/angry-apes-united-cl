@@ -10,19 +10,19 @@ const More = () => {
       <div className="grid md:grid-cols-3 grid-cols-1 font-lexend gap-5">
         <div className="text-center flex flex-col justify-center">
           <img
-            src="https://cdn.discordapp.com/attachments/816110432900481045/894726149312245810/unknown.png"
+            src="/assets/images/9.png"
             alt=""
-            className="block w-auto h-[40px] object-contain mb-2"
+            className="block w-auto h-[80px] object-contain mb-2"
           />
 
           <h4 className="md:text-[32px] sm:text-[25px] text-[20px] font-bold text-white mb-2">
             Metaverse Expansion
           </h4>
           <p className="sm:text-base text-sm font-normal text-white">
-            The Mafia Member have many plans for the virtual world! As we
-            develop our estate in The Sandbox Game, the team looks to continue
-            expanding into other metaverses such as Decentraland and other up
-            and coming platforms to keep a strong presence in the space!
+            The Meta Mafia has many plans for the virtual world! As we develop
+            our estate directly with the NetVRk metaverse, the Meta Mafia also
+            looks to continue expanding into other metaverses to stay relevant
+            in the fast-paced digital economy.
           </p>
         </div>
 
@@ -56,10 +56,11 @@ const More = () => {
             Community Charity Events
           </h4>
           <p className="sm:text-base text-sm font-normal text-white">
-            The Meta Mafia United team looks to host community charity events in
-            person and on their virtual estates where holders will have the
-            ability to choose and donate towards the cause of their choice.
-            Mafia Member create something that lasts forever.
+            The Meta Mafia looks to host community events on their virtual
+            estates where holders will have the ability to choose and donate
+            towards the cause of their choice. These events will be held
+            annually and community members will have a voting opportunity on
+            which events will take place.
           </p>
         </div>
       </div>
