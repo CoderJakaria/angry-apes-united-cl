@@ -13,7 +13,7 @@ const Roadmap = () => {
       {/* Roadmap wrapper */}
       <div className="max-w-[800px] mx-auto">
         <div className="phase sm:flex pb-[50px] items-center">
-          <div className="flex-[0.5]">
+          <div className="flex-[0.5] flex justify-center">
             <img src="/assets/images/percentages/1.svg" alt="" />
           </div>
 
@@ -34,7 +34,7 @@ const Roadmap = () => {
         </div>
 
         <div className="phase sm:flex flex-row-reverse pb-[50px] items-center">
-          <div className="flex-[0.5]">
+          <div className="flex-[0.5] flex justify-center">
             <img src="/assets/images/percentages/2.svg" alt="" />
           </div>
 
@@ -51,7 +51,7 @@ const Roadmap = () => {
         </div>
 
         <div className="phase sm:flex pb-[50px] items-center">
-          <div className="flex-[0.5]">
+          <div className="flex-[0.5] flex justify-center">
             <img src="/assets/images/percentages/3.svg" alt="" />
           </div>
 
@@ -71,7 +71,7 @@ const Roadmap = () => {
         </div>
 
         <div className="phase sm:flex flex-row-reverse pb-[50px] items-center">
-          <div className="flex-[0.5]">
+          <div className="flex-[0.5] flex justify-center">
             <img src="/assets/images/percentages/4.svg" alt="" />
           </div>
 
@@ -91,7 +91,7 @@ const Roadmap = () => {
         </div>
 
         <div className="phase sm:flex pb-[50px] items-center">
-          <div className="flex-[0.5]">
+          <div className="flex-[0.5] flex justify-center">
             <img src="/assets/images/percentages/5.svg" alt="" />
           </div>
 

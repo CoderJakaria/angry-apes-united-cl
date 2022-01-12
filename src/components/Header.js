@@ -90,7 +90,7 @@ const Header = () => {
             className="text-[#d7d7d7] no-underline font-normal text-base mr-[30px] py-2 px-3 border border-white"
             target="_blank"
           >
-            Public Sale - SOLD OUT
+            Connect Wallet
           </a>
         </div>
 
@@ -152,7 +152,7 @@ const Header = () => {
                 className="text-[#d7d7d7] no-underline font-normal text-base mr-[30px] py-2 px-3 border border-white"
                 target="_blank"
               >
-                Public Sale - SOLD OUT
+                Connect Wallet
               </a>
             </div>
           </div>
