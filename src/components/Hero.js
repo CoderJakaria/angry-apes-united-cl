@@ -4,6 +4,13 @@ const Hero = () => {
   return (
     <div className="hero_image relative w-full h-0 lg:pt-[40%] md:pt-[50%] sm:pt-[60%] pt-[70%] font-lexend">
       <div className="flex flex-col absolute bottom-0 w-full">
+        <a
+          href="https://opensea.io/collection/angryapesunited"
+          className="text-[#d7d7d7] no-underline font-normal text-base max-w-[200px] mx-auto text-center py-2 px-10 rounded-sm border border-white bg-black mb-3"
+          target="_blank"
+        >
+          Mint
+        </a>
         <h2 className="font-bold text-white md:text-[32px] sm:text-2xl text-lg mx-auto">
           COUNTDOWN TO PUBLIC SALE
         </h2>
